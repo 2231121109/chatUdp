@@ -1,0 +1,7 @@
+Server/.vs/
+Server/Server/bin/
+Client/.vs/
+Client/ClientUDP/bin/Debug/ClientUdp.pdb
+Client/ClientUDP/bin/
+Client/ClientUDP/obj/
+Server/Server/obj/
